@@ -19,3 +19,4 @@ else:
     print("You are severely obese.")
 
 print("Based on your weight, you should drink approximately", round(weight * 0.033, 2), "liters of water per day.")
+
