@@ -28,3 +28,8 @@ print(length)
 replacedPhrase = phrase.replace(" ", "-")
 print("Phrase with spaces replaced by hyphens is:")
 print(replacedPhrase)
+
+# String Concatination
+surname = "Cena"
+first_name = "John "
+print(first_name+surname)
