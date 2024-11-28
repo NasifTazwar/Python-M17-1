@@ -1,0 +1,6 @@
+number = float(input("Enter a number to find its square root: "))
+square_root = number ** 0.5
+squared_number = number ** 2
+print("The square root of", number, "is", square_root)
+print("The squared of", number, "is", squared_number)
+
